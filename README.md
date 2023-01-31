@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @tranminhnhat1005
-- 👀 I’m interested in JS
-- 🌱 I’m currently learning JS
+- 🏆 I’m a React Native Developer
+- 👀 I’m interested in JS/TS
+- 🌱 I’m currently learning JS/TS
 - 💞️ I’m working at DigiNet Co.op 
 - 📫 How to reach me tranminhnhat1005@gmail.com
 
